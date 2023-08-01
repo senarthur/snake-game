@@ -1,6 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: #191919;
-    min-height: 100vh;
     color: white;
     display: flex;
     flex-direction: column;
